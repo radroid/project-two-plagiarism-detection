@@ -1,4 +1,4 @@
-# Project 2: Plagarism Detection
+# Project 2: Plagiarism Detection
 > *This project is part of a series worked on as a part of my Udacity Nanodegree program. The files uploaded when the repository was created is the code provided. All the commits and pull requests are done by me.*
 
 > **Machine Learning Engineer Nanodegree at Udacity** *sponsored by AWS*
