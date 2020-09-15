@@ -3,6 +3,8 @@
 
 > **Machine Learning Engineer Nanodegree at Udacity** *sponsored by AWS*
 
+[![powered by](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+
 # Plagiarism Project, Machine Learning Deployment
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
