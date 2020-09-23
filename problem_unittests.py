@@ -68,7 +68,7 @@ def test_containment(complete_df, containment_fn):
         val_3 = containment_fn(complete_df, 3, filenames[i])
         results_1gram.append(val_1)
         results_3gram.append(val_3)
-        
+    
     # check correct results
     assert all(np.isclose(results_1gram, ngram_1, rtol=1e-04)), \
     'n=1 calculations are incorrect. Double check the intersection calculation.'
